@@ -1,0 +1,16 @@
+/.venv 
+.venv
+.env
+venv/
+
+.model_unet_v2.h5
+/model_unet_v2.h5
+/.model_unet_v2.h5
+
+.model_incep_kaggle.h5
+/model_incep_kaggle.h5
+/.model_incep_kaggle.h5
+model_incep_kaggle.h5
+
+/__pycache__
+__pycache__
